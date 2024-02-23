@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React and Nextjs**
 
-- 📫 How to reach me **stephen533422@gmail.com**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/chao-ting-ho-a1450b2a5/)
 
 - 📄 Know about my experiences [https://www.cakeresume.com/jt-ad40ff](https://www.cakeresume.com/jt-ad40ff)
 
