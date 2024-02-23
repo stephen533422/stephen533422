@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chao-Ting</h1>
-<h3 align="center">A passionate web front-end developer from Taiwan.</h3>
-<h3 align="center">I transitioned careers through WeHelp Bootcamp, familiar with front-end engineering in a six-month intensive program.</h3>
-<h3 align="center">I hope I can gets better at web development every day.</h3>
+<h4 align="center">A passionate web front-end developer from Taiwan.</h4>
+<h4 align="center">I transitioned careers through WeHelp Bootcamp, familiar with front-end engineering in a six-month intensive program.</h4>
+<h4 align="center">I hope I can gets better at web development every day.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephen533422&label=Profile%20views&color=0e75b6&style=flat-square" alt="stephen533422" /> </p>
 
