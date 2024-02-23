@@ -45,8 +45,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephen533422&show_icons=true&locale=en&layout=compact" alt="stephen533422" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephen533422&show_icons=true&locale=en" alt="stephen533422" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephen533422&theme=default" alt="stephen533422" /></p>
 <!--
 **stephen533422/stephen533422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
