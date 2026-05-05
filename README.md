@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chao-Ting</h1>
+<h1 align="center">Hi 👋, I'm Stephen</h1>
 <h4 align="center">A passionate web front-end developer from Taiwan.</h4>
 <h4 align="center">I transitioned careers through WeHelp Bootcamp, familiar with front-end engineering in a six-month intensive program.</h4>
 <h4 align="center">I hope I can gets better at web development every day.</h4>
